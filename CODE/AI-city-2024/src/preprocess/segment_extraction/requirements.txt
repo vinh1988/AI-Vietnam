@@ -1,0 +1,10 @@
+transformers
+numpy
+torcheval
+sentence_transformers
+torcheval
+accelerate
+vllm
+setuptools 
+wheel
+spacy
